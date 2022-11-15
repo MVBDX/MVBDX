@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashar</h1>
-<h3 align="center">A passionate software engineer and backend developer <img src="https://cdn-icons-png.flaticon.com/512/4852/4852775.png" width="13"/> <b>Tehran, Iran</b>.</h3>
+<h3 align="center">A passionate software engineer and backend developer from <b>Tehran, Iran</b> <img src="https://cdn-icons-png.flaticon.com/512/4852/4852775.png" width="13"/>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvbdx&label=Profile%20views&color=0e75b6&style=flat" alt="mvbdx" /> </p>
 
@@ -7,16 +7,15 @@
 
 - 🌱 I’m currently learning **Java Core, Spring, SOLID, Design Patterns and other programming skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MVBDX/](https://github.com/MVBDX/)
+- 📫 You can reach me via **faalian.m@gmail.com**
 
-- 📫 How to reach me **faalian.m@gmail.com**
-
-- ⚡ Fun fact **I think I have good soft skills, and I'm a life-time learner**
+- ⚡ Interesting fact **I think I have good soft skills, loves running and walking, a person who describe himself as a life-time learner and i'm a bookworm :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mfaalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfaalian" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mvbdx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mvbdx" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/MVBDX" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="mvbdx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
