@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvbdx&label=Profile%20views&color=0e75b6&style=flat" alt="mvbdx" /> </p>
 
-- 🔭 I’m currently working on [MyWallet](https://github.com/MVBDX/MyWallet)
+- 🔭 Currently working on [MyWallet](https://github.com/MVBDX/MyWallet)
 
 - 🌱 I’m currently learning **Java Core, Spring, SOLID, Design Patterns and other programming skills**
 
 - 📫 You can reach me via **faalian.m@gmail.com**
 
-- ⚡ Interesting fact **I think I have good soft skills, loves running and walking, a person who describe himself as a life-time learner and i'm a bookworm :)**
+- ⚡ Interesting facts **I think I have good soft skills, loves running and walking, a person who describe himself as a life-time learner and i'm a bookworm :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
