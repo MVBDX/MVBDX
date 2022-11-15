@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashar</h1>
-<h3 align="center">A passionate software engineer and backend developer from <b>Tehran, Iran</b> <img src="https://cdn-icons-png.flaticon.com/512/4852/4852775.png" width="13"/>.</h3>
+<h3 align="center">A passionate software engineer and backend developer from <b>Tehran, Iran</b> <img src="https://cdn-icons-png.flaticon.com/512/4852/4852775.png" width="13"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvbdx&label=Profile%20views&color=0e75b6&style=flat" alt="mvbdx" /> </p>
 
