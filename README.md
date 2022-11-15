@@ -9,7 +9,7 @@
 
 - 📫 You can reach me via **faalian.m@gmail.com**
 
-- ⚡ Interesting facts **I think I have good soft skills, loves running and walking, a person who describe himself as a life-time learner and i'm a bookworm :)**
+- ⚡ Interesting facts **I think I have good soft skills, loves running and walking, a person who describe himself as a life-time learner, in love with instrumental music and a bookworm :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
