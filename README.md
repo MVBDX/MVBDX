@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yashar</h1>
-<h3 align="center">A passionate software engineer and backend developer from <b>Tehran, Iran</b> <img src="https://cdn-icons-png.flaticon.com/512/4852/4852775.png" width="13"/></h3>
+<h3 align="center">A passionate software engineer and back-end developer from <b>Tehran, Iran</b> <img src="https://cdn-icons-png.flaticon.com/512/4852/4852775.png" width="13"/></h3>
 
 - 🔭 Currently working on [MyWallet](https://github.com/MVBDX/MyWallet)
 
-- 🌱 I’m currently learning **Java Core, Spring, SOLID, Design Patterns and other programming skills**
+- 🌱 I’m currently learning **Java Core, Spring, SOLID, Design Patterns and other programming skills like Unit testing**
 
 - 📫 You can reach me via **faalian.m@gmail.com**
 
