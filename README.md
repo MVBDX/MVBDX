@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [MyWallet](https://github.com/MVBDX/MyWallet)
 
-- 🌱 I’m currently learning **Java Core, Spring, SOLID, Design Patterns and other programming skills like Unit testing**
+- 🌱 I’m currently learning **Java Core, Spring, SOLID, Design Patterns, MicroServices and other programming skills like Unit testing**
 
 - 📫 You can reach me via **faalian.m@gmail.com**
 
