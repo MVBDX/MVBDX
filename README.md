@@ -7,11 +7,12 @@
 
 - 📫 You can reach me via **faalian.m@gmail.com**
 
-- ⚡ Interesting facts **I think I have good soft skills, like running and walking, who describe himself as a life-time learner, also in love with instrumental music and a bookworm :)**
+- ⚡ Interesting facts **I think I have good soft skills, and I like running and walking. I am a person who describe himself as a life-time learner, also in love with instrumental music and a bookworm :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mfaalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfaalian" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mvbdx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mvbdx" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/MVBDX" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="mvbdx" height="50" width="40" /></a>
+<a href="https://www.hackerrank.com/faalian_m" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="faalian_m" height="50" width="40" /></a>
 </p>
